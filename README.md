@@ -1,15 +1,18 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
-# Lorem ipsum: Study
+# Express and Server Side JavaScript: Study
 
 ## Learning Objectives
 
 By the end of this, you should know:
 
-- Lorem ipsum dolor sit amet
+- What are Node and Express
+- How server side JavaScript differs from JavaScript in the Browser
+- What are an url hostname, port, path and parameters
 
 By the end of this, you should be able to:
 
-- Lorem ipsum dolor sit amet
+- Create and run a small server using just JavaScript
+- Create and run a server using Express
 
 ## Instructions
 
