@@ -20,28 +20,28 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. What is Node ?
 
     ```
-    Please write your answer here.
+    Node is an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript.
     ```
 
 1. What is Express ?
 
     ```
-    Please write your answer here.
+    Express is the most popular Node web framework, and is the underlying library for a number of other popular Node web frameworks.
     ```
 
 1. What are the various parts of the following URL: https://www.skillsunion.com:3000/search?query=engineering
  ? What are they named? What are they useful for?
 
     ```
-    Please write your answer here.
+    in this example this is the query string, it's calling a search on the word engineering with the ? being used a separator and not actually part of the string. 
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 4
 
-    Clarity: 
+    Clarity: 4
     ```
 
 ### Response Guidelines
