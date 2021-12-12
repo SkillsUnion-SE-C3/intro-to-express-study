@@ -20,28 +20,28 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. What is Node ?
 
     ```
-    Please write your answer here.
+   Node also called Node.js (as it runs JavaScript on the server)is an server environment which is both open source and cross-platform, (including Windows, Linux, Unix, Mac OS X).
     ```
 
 1. What is Express ?
 
     ```
-    Please write your answer here.
+    Express is a type of Node web frameworks, it provides an library for a number of other Node web frameworks. Express is minimal but it is unopininated meaning it has few restrictions on the best way to adhere components together to achieve a goal, or what components should be used. Resulting from this developers have created add on middlware. It has write handlers that work for requests with different HTTP verbs at different URL paths (routes).
     ```
 
 1. What are the various parts of the following URL: https://www.skillsunion.com:3000/search?query=engineering
  ? What are they named? What are they useful for?
 
     ```
-    Please write your answer here.
+    An HTTP method, e.g. GET, request target in this case - An absolute path, ultimately followed by a '?' and query string and HTTP version, for remainder of the message.
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 4
 
-    Clarity: 
+    Clarity: 3
     ```
 
 ### Response Guidelines
